@@ -6,7 +6,7 @@
 
 <h1>
 iView Admin
-    <h3>Vue.js 2.0 admin management system template based on iView.</h3>
+    <h3>Vue.js 2.0 admin management system template based on view-design.</h3>
 </h1>
 
 [![](https://img.shields.io/github/release/iview/iview-admin.svg)](https://github.com/iview/iview-admin/releases)
@@ -27,7 +27,8 @@ iView Admin is a front-end management background integration solution. It based 
 
 ## Features
 
-- Login / Logout
+- Login / Logout / SingUp / ForgetPassWord
+- Supports mobile
 - Permission Authentication
     - A list of filters
     - Permission to switch
@@ -70,7 +71,7 @@ iView Admin is a front-end management background integration solution. It based 
 ## Getting started
 ```bush
 # clone the project
-git clone https://github.com/iview/iview-admin.git
+git clone https://github.com/ComicAuthor/iview-admin-amend.git
 
 // install dependencies
 npm install
@@ -83,8 +84,3 @@ npm run dev
 ```bush
 npm run build
 ```
-
-## License
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2016-present, TalkingData
