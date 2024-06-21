@@ -1,27 +1,4 @@
-<p align="center">
-    <a href="https://www.iviewui.com">
-        <img width="200" src="https://file.iviewui.com/logo-new.svg">
-    </a>
-</p>
-
-<h1>
-iView Admin
-    <h3>Vue.js 2.0 admin management system template based on view-design.</h3>
-</h1>
-
-[![](https://img.shields.io/github/release/iview/iview-admin.svg)](https://github.com/iview/iview-admin/releases)
-[![](https://img.shields.io/travis/iview/iview-admin.svg?style=flat-square)](https://travis-ci.org/iview/iview-admin)
-[![vue](https://img.shields.io/badge/vue-2.5.17-brightgreen.svg?style=flat-square)](https://github.com/vuejs/vue)
-[![iview ui](https://img.shields.io/badge/iview-3.2.2-brightgreen.svg?style=flat-square)](https://github.com/iview/iview)
-[![npm](https://img.shields.io/npm/l/express.svg)]()
-
-## Introduction
-
-iView Admin is a front-end management background integration solution. It based on [Vue.js](https://github.com/vuejs/vue) and use the UI Toolkit [iView](https://github.com/iview/iview).
-
-- [Document](https://lison16.github.io/iview-admin-doc/)
-- [Preview](https://admin.iviewui.com/)
-- [Base template recommends using](https://github.com/iview/iview-admin/tree/template)
+<a href="https://hellogithub.com/repository/396acae90639497d82101e149577db8c" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=396acae90639497d82101e149577db8c&claim_uid=8JFOjaTEvWt4zkC" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ![image](https://file.iviewui.com/admin-dist/admin-preview.png)
 
@@ -67,18 +44,6 @@ iView Admin is a front-end management background integration solution. It based 
 - Lock screen
 - The message center
 - Personal center
-
-## Getting started
-```bush
-# clone the project
-git clone https://github.com/ComicAuthor/iview-admin-amend.git
-
-// install dependencies
-npm install
-
-// develop
-npm run dev
-```
 
 ## Build
 ```bush
